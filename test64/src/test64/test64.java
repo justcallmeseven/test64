@@ -1,4 +1,5 @@
 package test64;
+import java.applet.*;
 
 public class test64 {
 
