@@ -1,5 +1,4 @@
 package test64;
-import java.applet.*;
 
 public class test64 {
 
@@ -7,6 +6,9 @@ public class test64 {
 		// TODO Auto-generated method stub
 		System.out.println("Hei Git!!");
 		System.out.println("Hei Git121233!!");
+	}
+	public void test(){
+		
 	}
 
 }
